@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/ytcreatorstudio2001/addition-lucifer",
+    "repository": "https://github.com/ytcreatorstudio2001/Lucifer-v2",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
