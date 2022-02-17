@@ -10,8 +10,7 @@ class script(object):
 ╔════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
 ║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="http://t.me/lucifer_v2_Bot"> 𝕃𝕦𝕔𝕚𝕗𝕖𝕣 𝕧𝟚 </a>
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎1 - <a href="http://t.me/akhil_tg"> TG_Editz </a>
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎2 - <a href="http://t.me/akhil_tg"> Gamer </a>
+║┣⪼ ⓂⓎ ⒹⒺⓋ - <a href="http://t.me/akhil_tg"> 𝙰𝚔𝚑𝚒𝚕_𝚃𝙶 </a>
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
