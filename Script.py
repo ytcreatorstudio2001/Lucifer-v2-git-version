@@ -9,8 +9,8 @@ class script(object):
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="http://t.me/lucifer_v2_Bot"> 𝕃𝕦𝕔𝕚𝕗𝕖𝕣 𝕧𝟚 </a>
-║┣⪼ ⓂⓎ ⒹⒺⓋ - <a href="http://t.me/akhil_tg"> 𝙰𝚔𝚑𝚒𝚕_𝚃𝙶 </a>
+║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="http://t.me/lucifer_v2_Bot"> 𝕃𝕦𝕔𝕚𝕗𝕖𝕣 </a>
+║┣⪼ ᴍʏ ᴅᴇᴠ⚡ - <a href="http://t.me/akhil_tg"> 𝙰𝚔𝚑𝚒𝚕_𝚃𝙶 </a>
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -22,7 +22,7 @@ class script(object):
 - ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="http://t.me/lucifer_v2_Bot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="http://t.me/lucifer_v2_Bot"> ♞☯  Ⓣεάｍ 𝔩𝔲cⓘ𝐟Ẹя 𝕧➁  ★♣ </a>"""
+<a href="http://t.me/lucifer_v2_Bot"> ♞☯  Ⓣεάｍ 𝔩𝔲cⓘ𝐟Ẹя  ★♣ </a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
