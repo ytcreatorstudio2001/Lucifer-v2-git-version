@@ -1,6 +1,5 @@
 # 𝐋𝐮𝐜𝐢𝐟𝐞𝐫 𝐛𝐨𝐭
-Very Sempil Bot Auto Filter bot
-##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+𝐋𝐮𝐜𝐢𝐟𝐞𝐫+𝐛𝐨𝐭!;created+by+𝐓𝐞𝐚𝐦+𝐋𝐮𝐜𝐢𝐟𝐞𝐫!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
+Very Sempil Bot Auto Filter bot##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+𝐋𝐮𝐜𝐢𝐟𝐞𝐫+𝐛𝐨𝐭!;created+by+𝐓𝐞𝐚𝐦+𝐋𝐮𝐜𝐢𝐟𝐞𝐫!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
 </p>
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
