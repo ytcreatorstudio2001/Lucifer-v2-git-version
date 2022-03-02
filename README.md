@@ -4,7 +4,7 @@ Very Sempil Bot Auto Filter bot ![Typing SVG](https://readme-typing-svg.herokuap
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
 
-[![Deploy](https://telegra.ph/file/b4396ef6af0ead4301c2d.jpg)](https://heroku.com/deploy?template=https://github.com/Lallu-lallus/anna-ben-repo)
+[![Deploy](https://telegra.ph/file/df2d73a7cb0c1503aa4d3.jpg)](https://heroku.com/deploy?template=https://github.com/ytcreatorstudio2001/Lucifer-v2)
 
 - [x] Auto Filter
 - [x] Manuel Filter
