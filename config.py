@@ -12,7 +12,7 @@ class Config(object):
 
     # Get from my.telegram.org (or @UseTGXBot)
 
-    API_ID = int(os.environ.get("API_ID", 19275737))
+    API_ID = int(os.environ.get("API_ID", "19275737"))
 
     # Get from my.telegram.org (or @UseTGXBot)
 
@@ -60,9 +60,9 @@ class Config(object):
     
     SESSION = os.environ.get("SESSION_STRING", "BQBXTxuK8ToKyWJ5kTYrXrDtx737whbhNw2OwdzDjvRbK66a0gVZ5him4JqvtUyNei_MNV694Q37giRvDHo74dw88mbXi8MxcmC6dWHoEWOceTSEGpFbFltytMqxRGtF0GyLz4IPF8Y8IOJLHlv5ac4rFsxd7BwHXGLS80o4OckuZELF1G68KbOo3rvJopzhAtE5QsGOWUUldKO3_ArOCsAkFuXzoo4mo5mk13ywMj5DWUnGn0Z30hsBLC7Ov-eamOe1yQjs4jAT-21N035sFmIOUDG5YZF1cGoaWMoNUvjlPYTTzq4HPzofbIWMvQyFsO8KLYAR8_tROmA_aBrV0I1hQyJLtQA")
    
-    CHAT = os.environ.get("CHAT", "")
+    CHAT = os.environ.get("CHAT", "-1001545727220")
 
-    LOG_GROUP = os.environ.get("LOG_GROUP", "")
+    LOG_GROUP = os.environ.get("LOG_GROUP", "-1001612651497")
     if LOG_GROUP:
         LOG_GROUP = int(LOG_GROUP)
     else:
