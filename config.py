@@ -8,15 +8,15 @@ class Config(object):
 
     # Get a bot token from botfather
 
-    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "5261216654:AAG46xTHOKrqxlNaOtH07bHOhFwWDjqXJK8")
 
     # Get from my.telegram.org (or @UseTGXBot)
 
-    API_ID = int(os.environ.get("API_ID", 12345))
+    API_ID = int(os.environ.get("API_ID", 19275737))
 
     # Get from my.telegram.org (or @UseTGXBot)
 
-    API_HASH = os.environ.get("API_HASH", "")
+    API_HASH = os.environ.get("API_HASH", "bdc37def5a44bc6a182db72d61a48192")
 
     
 
@@ -24,15 +24,15 @@ class Config(object):
 
     # Database URL from https://cloud.mongodb.com/
 
-    DATABASE_URI = os.environ.get("DATABASE_URI", "")
+    DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://7559935673:7559935673@cluster0.3sajg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
 
     # Your database name from mongoDB
 
-    DATABASE_NAME = str(os.environ.get("DATABASE_NAME", "Cluster0"))
+    DATABASE_NAME = str(os.environ.get("DATABASE_NAME", "LUCIFER V2.0"))
 
     # ID of users that can use the bot commands
 
-    AUTH_USERS = set(str(x) for x in os.environ.get("AUTH_USERS", "").split())
+    AUTH_USERS = set(str(x) for x in os.environ.get("AUTH_USERS", "1126321077").split())
 
     # To save user details (Usefull for getting userinfo and total user counts)
 
@@ -58,7 +58,7 @@ class Config(object):
 
     CONNECT_COMMAND = os.environ.get("CONNECT_COMMANDD", "connect")
     
-    SESSION = os.environ.get("SESSION_STRING", "")
+    SESSION = os.environ.get("SESSION_STRING", "BQBXTxuK8ToKyWJ5kTYrXrDtx737whbhNw2OwdzDjvRbK66a0gVZ5him4JqvtUyNei_MNV694Q37giRvDHo74dw88mbXi8MxcmC6dWHoEWOceTSEGpFbFltytMqxRGtF0GyLz4IPF8Y8IOJLHlv5ac4rFsxd7BwHXGLS80o4OckuZELF1G68KbOo3rvJopzhAtE5QsGOWUUldKO3_ArOCsAkFuXzoo4mo5mk13ywMj5DWUnGn0Z30hsBLC7Ov-eamOe1yQjs4jAT-21N035sFmIOUDG5YZF1cGoaWMoNUvjlPYTTzq4HPzofbIWMvQyFsO8KLYAR8_tROmA_aBrV0I1hQyJLtQA")
    
     CHAT = os.environ.get("CHAT", "")
 
@@ -68,7 +68,7 @@ class Config(object):
     else:
         LOG_GROUP = None
 
-    ADMIN = os.environ.get("ADMINS", "1815494853")
+    ADMIN = os.environ.get("ADMINS", "1126321077")
 
     ADMINS = [int(admin) if re.search('^\d+$', admin) else admin for admin in (ADMIN).split()]
     
